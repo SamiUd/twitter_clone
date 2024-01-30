@@ -34,6 +34,7 @@ export default {
         </div>
         <icons icon="three-dot" class="section" />
       </div>
+      <!-- <h1>jg</h1> -->
       <div class="trend">
         <div class="content">
           <p class="rank">Politics · Trending</p>
